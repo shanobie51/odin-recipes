@@ -1,0 +1,24 @@
+h1 {
+    border: inset burlywood 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    
+}
+h2 {
+    text-align: center;
+    border-bottom: dotted burlywood 5px;
+    margin: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text {
+    background-color: burlywood;
+}
+ul {
+    border: double rgb(187, 116, 22) 10px;
+}
+img {
+    border-radius: 50%;
+    
+
+}

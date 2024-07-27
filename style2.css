@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    border: outset 10px rgb(199, 80, 104);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+h2 {
+    text-align: center;
+    border-bottom: double rgb(199, 80, 104) 10px;
+}
+p {
+    background-color: rgb(199, 80, 104);
+}
+h4 {
+    border-bottom: dotted rgb(199, 80, 104) 3px;
+}
+#list {
+    padding-left: 10px;
+}
+li {
+    padding: 10px;
+}
+
+ul {
+    border: 5px rgb(199, 80, 104) double;
+    margin-right: 540px;
+    
+}
+.flag {
+ float: right;
+ margin-right: 100px;
+ border-radius: 70%;
+    
+}
+
+.soup {
+    margin-left: 560px;
+
+}
