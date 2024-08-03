@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    border: inset darkolivegreen 10px;
+    background-color: forestgreen;
+    color: antiquewhite;
+}
+.final {
+    border-radius: 10%;
+    margin-left: 560px;
+}
+h2 {
+    text-align: center;
+    border-bottom:ridge 10px darkolivegreen;
+}
+p {
+    background-color: forestgreen;
+    color: antiquewhite;
+}
+ul {
+    border: dashed 5px darkolivegreen;
+}
+img {
+    border-radius: 10%;
+}
